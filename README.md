@@ -12,20 +12,21 @@ The dataset was collected and analysed during a research collaboration of Worldl
 
 
 
-About the dataset
+<h4> About the dataset</h4>
 
 Exploratory Data Analysis
 
-Model Building
-Logistic Regression (LR)
-Decision Tree (DT)
-Random Forest (Boostrap Ensemble of DT)
+ Model Building<br>
+ Logistic Regression (LR) <br>
+ Decision Tree (DT) <br>
+ Random Forest (Boostrap Ensemble of DT) <br>
 
+<br>
+<h4> Model Selection </h4>
+  Considerations for Model Selection
+<br>
+<h4>Inspiration</h4><br>
 
-Model Selection
-Considerations for Model Selection
+ Identify fraudulent credit card transactions.
 
-Inspiration
-Identify fraudulent credit card transactions.
-
-Given the class imbalance ratio, we recommend measuring the accuracy using the Area Under the Precision-Recall Curve (AUPRC). Confusion matrix accuracy is not meaningful for unbalanced classification.
+ Given the class imbalance ratio, we recommend measuring the accuracy using the Area Under the Precision-Recall Curve (AUPRC). Confusion   matrix accuracy is not meaningful for unbalanced classification.
